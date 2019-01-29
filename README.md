@@ -22,7 +22,7 @@ Dersler YouTube'da ücretsiz olarak yayımlanmaktadır.
 
 `python manage.py migrate`
 
-`python manage.py createsuper`
+`python manage.py createsuperuser`
 
 `python manage.py runserver`
 
